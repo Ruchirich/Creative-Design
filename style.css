@@ -545,9 +545,7 @@ body {
     .section-1-heading {
       top: 40vw;
     }
-    .form-img {
-      width: 20rem;
-    }
+    
   
     .navbar {
       justify-content: space-around;
@@ -557,6 +555,10 @@ body {
   @media (max-width: 750px) {
     html {
       font-size: 50%;
+    }
+
+    .form-img {
+      width: 20rem;
     }
   
     .floating-bg {
