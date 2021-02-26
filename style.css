@@ -513,7 +513,7 @@ body {
     }
   
     .form-img {
-      width: 24rem;
+      width: 30rem;
     }
   
     .copyright {
@@ -544,6 +544,9 @@ body {
   
     .section-1-heading {
       top: 40vw;
+    }
+    .form-img {
+      width: 20rem;
     }
   
     .navbar {
